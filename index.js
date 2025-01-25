@@ -13,4 +13,3 @@ for (let i = 0; i < numbers.length; i++) {
     {secondUl.innerHTML += '<li>${numbers[i]} </li>' ; 
 } 
 } 
-
